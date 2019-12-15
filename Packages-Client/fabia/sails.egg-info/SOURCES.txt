@@ -1,0 +1,7 @@
+setup.py
+sails/__init__.py
+sails/start.py
+sails.egg-info/PKG-INFO
+sails.egg-info/SOURCES.txt
+sails.egg-info/dependency_links.txt
+sails.egg-info/top_level.txt

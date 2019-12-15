@@ -12,10 +12,10 @@ def execute(egg, project):
     sys.path.insert(0, str(egg))
     project = importlib.import_module(project)
     # 执行egg包中的fetch方法
-    project.fetch()
+    project.main()
 
 
 if __name__ == '__main__':
     # egg包路径
-    file = PurePath.joinpath(Path.cwd(), 'fabia', 'football-1.5-py3.7.egg')
-    execute(file, 'football')
+    file = PurePath.joinpath(Path.cwd(), 'fabia', 'sails-1.5-py3.7.egg')
+    execute(file, 'sails')

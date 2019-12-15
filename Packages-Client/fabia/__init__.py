@@ -1,2 +1,2 @@
-# football/__init__.py
+# sails/__init__.py
 from .start import fetch

@@ -35,4 +35,4 @@ def generate_setup(path, **kwargs):
 
 if __name__ == '__main__':
     space = PurePath.joinpath(Path.cwd(), 'fabia')  # 目标路径
-    builder('football', space)  # 执行打包
+    builder('sails', space)  # 执行打包

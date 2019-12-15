@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f7c2dd8-ce28-4dc3-8434-63fece8a5ae6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Packages-Client/.idea/Packages-Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages-Client/fabia/sails/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages-Client/fabia/sails/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executor/actuator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executor/boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/deploy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/timers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supervise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supervise/alarms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supervise/monitors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages-Client/build.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/build/lib/football/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/build/lib/football/start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football-1.5-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages-Client/fabia/football-backup.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/football/start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/fabia/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages-Client/fabia/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages-Client/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages-Client/runner.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/sailboat.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V07SXhGniQKfHKKDdK6OTu9CLS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exp">
+    <configuration name="exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sailboat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sailboat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exp" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7c2dd8-ce28-4dc3-8434-63fece8a5ae6" name="Default Changelist" comment="" />
+      <created>1576378159016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576378159016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handler/users.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handler/users.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handler/timers.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
